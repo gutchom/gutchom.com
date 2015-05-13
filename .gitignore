@@ -1,0 +1,14 @@
+# OS or Editor folders
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+.idea
+nbproject
+Thumbs.db
+.DS_Store
+
+dest/
+node_modules/
+bower_components/
